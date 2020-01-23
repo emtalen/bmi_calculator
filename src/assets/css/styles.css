@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+
+}
+input {
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10%;
+    text-align: center;
+    display: inline-block;
+
+}
+#height {
+    margin-left: 30px;
+    margin-right: 200px;
+}
+#weight {
+    margin-left: 440px;
+    margin-right: 30px;
+}
+button {
+    font-size: 18px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px;
+    border-radius: 10%;
+    background-color: green;
+    display: block;
+}
+div {
+    text-align: center;
+    margin-top: 30px;
+    
+}
+.notification {
+    display: block;
+    background-color: lightgreen;
+    padding: 30px;
+}
